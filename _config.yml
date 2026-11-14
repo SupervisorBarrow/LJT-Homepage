@@ -1,1 +1,7 @@
-test
+locale: "en-US"
+title: "Junteng Liu"
+name: "Junteng Liu"
+description: "Junteng Liu, first-year PhD candidate at HKUST NLP Group, research focuses on natural language processing and machine learning"
+url: https://supervisorbarrow.github.io
+baseurl: "/LJT-Homepage"
+repository: "SupervisorBarrow/LJT-Homepage"
